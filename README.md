@@ -1,4 +1,4 @@
-#CodeBoy微信抢红包外挂
+fork自项目:[https://github.com/lendylongli/qianghongbao](https://github.com/lendylongli/qianghongbao)
 
 #### 效果预览
 ![](show_min.gif)
@@ -134,17 +134,3 @@ feedbackAllMask | 所有以上的反馈
 现在抢红包就看谁的外挂工具反应够快,如何去干扰这些外挂，其实也有点小技巧，就是在发红包前，发送文本`[微信红包]`,可以导致部分外挂工具失效。
 
 版本归作者所有,转载请注明出处:[http://www.happycodeboy.com/index.php/archives/10/](http://www.happycodeboy.com/index.php/archives/10/)
-
-##打赏作者
-如果你觉得这篇文章或源码对你有帮助又或者你使用Codeboy抢红包包感觉很爽，可以打赏作者作为鼓励哦~
-
-###支付宝
-![](alipay.png)
-
-###微信扫一扫
-![](wechatpay.jpg)
-
-##关于作者
-英文名:Leon<br>
-个人博客:[http://www.happycodeboy.com](http://www.happycodeboy.com)<br>
-Email:codeboy2013@gmail.com<br>
